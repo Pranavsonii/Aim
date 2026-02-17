@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Goal Tracker | Tech Meraki",
+  title: "Aim | Goal Tracker",
   description: "A simple goal tracking app built with Next.js",
 };
 

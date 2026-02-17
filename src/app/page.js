@@ -95,7 +95,7 @@ export default function Home() {
       <div className="max-w-7xl mx-auto">
         <header className="sticky p-5 rounded top-0 z-10 -mx-4 -mt-4 md:-mx-6 md:-mt-6 px-4 pt-4 md:px-6 md:pt-6 pb-4 border-b border-border bg-background/95 shadow-sm mb-3">
           <div className="flex justify-between items-center flex-wrap gap-3">
-            <h1 className="text-3xl font-bold tracking-tight">🎯 Goal Tracker</h1>
+            <h1 className="text-3xl font-bold tracking-tight">🎯 Aim |  Goal Tracker</h1>
             <div className="flex items-center gap-2 flex-wrap">
               {!loading && goals.length > 0 && (
                 <div className="">
